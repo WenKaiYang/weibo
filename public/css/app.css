@@ -10933,6 +10933,7 @@ body {
   font-weight: normal;
   /* footer */
   /* User gravatar */
+  /* Users edit */
 }
 
 body nav.navbar.navbar-expand-lg {
@@ -10983,5 +10984,15 @@ body .gravatar {
   float: left;
   max-width: 50px;
   border-radius: 50%;
+}
+
+body .gravatar_edit {
+  margin: 15px auto;
+  text-align: center;
+}
+
+body .gravatar_edit .gravatar {
+  float: none;
+  max-width: 100px;
 }
 
