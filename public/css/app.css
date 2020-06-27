@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Nunito);@charset "UTF-8";
+@charset "UTF-8";
 
 /*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
@@ -10926,5 +10926,62 @@ a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+}
+
+body {
+  font-size: 14px;
+  font-weight: normal;
+  /* footer */
+  /* User gravatar */
+}
+
+body nav.navbar.navbar-expand-lg {
+  margin-bottom: 20px;
+}
+
+body footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+body footer a {
+  color: #555;
+}
+
+body footer a:hover {
+  color: #222;
+}
+
+body footer img.brand-icon {
+  width: 17px;
+  height: 17px;
+}
+
+body section.user_info {
+  padding-bottom: 10px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+body section.user_info .gravatar {
+  float: none;
+  max-width: 70px;
+}
+
+body section.user_info h1 {
+  font-size: 1.4em;
+  letter-spacing: -1px;
+  margin-bottom: 3px;
+  margin-top: 15px;
+}
+
+body .gravatar {
+  float: left;
+  max-width: 50px;
+  border-radius: 50%;
 }
 
