@@ -1,0 +1,216 @@
+[33mcommit 3211de2b54bf3d7c761c89698746cc4693f8ac39[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32muser-statuses[m[33m)[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sun Jun 28 20:34:20 2020 +0800
+
+    删除微博
+
+[33mcommit e12e845c0ed73a6b5815de5dfa137cb40a5ab8a6[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sun Jun 28 20:29:57 2020 +0800
+
+    首页微博列表
+
+[33mcommit 47b851de31f5cf6fa58fefed6730145df6a44cdc[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sun Jun 28 20:25:25 2020 +0800
+
+    发布微博
+
+[33mcommit 010d417ae69e6de26a8df07234b7fbc6cfef680d[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sun Jun 28 20:14:45 2020 +0800
+
+    用户微博列表
+
+[33mcommit 5d4e8382353c6809f2b415087615300e469e5071[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sun Jun 28 19:45:07 2020 +0800
+
+    微博数据模型
+
+[33mcommit 6cd2cc2a06115ff48da6608bfa42e829182770c8[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sun Jun 28 19:38:29 2020 +0800
+
+    移除邮件发送的 from 选项
+
+[33mcommit fdba0ddd84acfb91cf8c7838efa31f53c8b758a4[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sun Jun 28 19:24:18 2020 +0800
+
+    重置密码
+
+[33mcommit 67a0910813fc7a086f8cc21c3e557aed489d6d0e[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sun Jun 28 00:08:23 2020 +0800
+
+    用户激活
+
+[33mcommit 3f93a6b4dee32f12dd7c5ccc8bf6d996ccfdce78[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 23:28:01 2020 +0800
+
+    管理员可删除用户
+
+[33mcommit 7a4573efec20524cde64f893728d71a7e361b08f[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 23:18:31 2020 +0800
+
+    查看用户列表
+
+[33mcommit df0273402a4964532796270b352e3080821bfd8c[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 22:58:55 2020 +0800
+
+    访问策略
+
+[33mcommit 3d137d6303da88688e621dc850b069d2fa2e7f8c[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 22:47:14 2020 +0800
+
+    更改用户资料
+
+[33mcommit 8b5f40db876ff2b2c4ec36db670d813186722b94[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 22:34:30 2020 +0800
+
+    登录时记住我
+
+[33mcommit 12431e4f26c46707fb6cd6fe3aec2f24b1afaf51[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 22:32:51 2020 +0800
+
+    用户退出登录
+
+[33mcommit 73be2fb76d561582c90ecd20ec44ed01229c428b[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 22:31:44 2020 +0800
+
+    登录成功后导航逻辑
+
+[33mcommit cf8523063aa50170893cb327bcbbf56be0eaf687[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 22:24:55 2020 +0800
+
+    创建会话
+
+[33mcommit 081d12cc67b79a381c77f224b8db1a0df5f5943c[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 22:01:20 2020 +0800
+
+    完成用户注册功能
+
+[33mcommit 84e3627012b50d7036cbab128a60c442fdbc20f7[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 21:55:39 2020 +0800
+
+    中文的错误提示信息
+
+[33mcommit 3d1f3b6b269000fc855d8cec1c809c6402f89acc[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 21:45:54 2020 +0800
+
+    增加 CSRF 验证
+
+[33mcommit ab00903c3b8af7754d0c01b7a62a7557ba395bbf[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 21:43:42 2020 +0800
+
+    用户注册表单
+
+[33mcommit 285e2b3f7a30c81b859933792b815a614367f6a6[m
+Merge: 535198d e2d5825
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 21:40:55 2020 +0800
+
+    用户显示页面
+
+[33mcommit 535198d440c7be08f28cf12228640ddb007b7237[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 21:13:16 2020 +0800
+
+    用户注册页面
+
+[33mcommit 27a2cfe8504e6b333220d59f068de2f5c404352b[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 21:07:52 2020 +0800
+
+    命名路由
+
+[33mcommit fca94a0176d7924246ec6146f480bec1953f4ee4[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 21:06:11 2020 +0800
+
+    切割头部和尾部子视图
+
+[33mcommit 836b1957704c2a97fd1ddc20e17f2b7b2847605a[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 21:03:20 2020 +0800
+
+    静态文件浏览器缓存问题
+
+[33mcommit f443bc16e55477d283daab8d26f090250b9be258[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 21:00:58 2020 +0800
+
+    初始化样式
+
+[33mcommit 346ceb92a0fe84918b2a5388da608308a031bdff[m[33m ([m[1;32msign-up[m[33m, [m[1;32mmodeling-users[m[33m)[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 20:17:50 2020 +0800
+
+    Move user model to models folder
+
+[33mcommit e2d5825827e8131e0bdcd0c33ae5c68da8e72364[m[33m ([m[1;32mfilling-layout-style[m[33m)[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 19:59:21 2020 +0800
+
+    用户注册页面
+
+[33mcommit ec6d2be89a1f344b4cb43f95491908157f9c1926[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 19:55:50 2020 +0800
+
+    命名路由
+
+[33mcommit 809632a8c31d18736d57e93a2be97e0f0fcd66a4[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 19:53:14 2020 +0800
+
+    切割头部和尾部子视图
+
+[33mcommit 6dec79fbc516cf25600d25cdad75a28eafe13e33[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 19:50:08 2020 +0800
+
+    静态文件浏览器缓存问题
+
+[33mcommit 92184f8a2c79067721883db239fa04a3c5c9dcac[m[33m ([m[1;31morigin/filling-layout-style[m[33m)[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 19:44:30 2020 +0800
+
+    初始化样式
+
+[33mcommit 170621b0d570a22fa1411dd4970c001d942a30b4[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 18:38:32 2020 +0800
+
+    初始化样式
+
+[33mcommit 30fe3356669690750b82f5588c2f93d8c0fc4c45[m[33m ([m[1;32mstatic-pages[m[33m)[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 18:25:11 2020 +0800
+
+    基础页面
+
+[33mcommit 2ac2de62dfc35ca0df308d34ec84770c6cdc5af0[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 18:06:12 2020 +0800
+
+    Add .editorconfig
+
+[33mcommit a6a928275b1af780fcdacc015b243a56b390ff97[m
+Author: WenKaiYang <313097973@qq.com>
+Date:   Sat Jun 27 18:01:56 2020 +0800
+
+    Initial commit
